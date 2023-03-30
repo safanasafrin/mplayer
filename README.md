@@ -1,6 +1,7 @@
 # mplayer
 
-A new Flutter project.
+A flutter project to create a simple music player.
+
 
 ## Getting Started
 
